@@ -1,2 +1,2 @@
 # Multi-resBind
-source code for the paper of "Multi-resBind: a residual-net base multi-label classification model for in vivo RNA binding prediction and binding preferences visualization"
+source code for the paper of "Multi-resBind: a residual network-based multi-label classifier for \emph{in vivo} RNA binding prediction and preference visualization"
