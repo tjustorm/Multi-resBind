@@ -24,4 +24,4 @@ Two low datasets consist of RNA secondary structural profiles predicted by compu
 Train and evaluate the model with the commands:  
 `python3 main.py`
 # Model
-The pretrined models to reproduce the Figures and tables of paper can be found in the Model dirctory.
+The pretrined models to reproduce the Figures and tables of paper can be found in the ./results dirctory.
