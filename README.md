@@ -13,7 +13,7 @@ The original dataset for performance comparison between Multi-resBind and DeepRi
 
 In each category, 70% of the data consisting of RNA sequences and region types were used for training the model, and 20% and 10% of the data were treated as validation and test datasets, respectively.  
 
-The two low datasets consists of RNA secondary structural profiles predicted by computation tools can be downloaded from: <br />
+Two low datasets consist of RNA secondary structural profiles predicted by computation tools can be downloaded from: <br />
 >https://doi.org/10.5281/zenodo.4743499.<br />
 
 - data_RBPslow_RNAplfold.h5: Structural profiles with paired-unpaired annotations were calculated using a modified script of RNAplfold.
@@ -23,3 +23,5 @@ The two low datasets consists of RNA secondary structural profiles predicted by 
 ## Training
 Train and evaluate the model with the commands:  
 `python3 main.py`
+# Model
+The pretrined models to reproduce the Figures and tables of paper can be found in the Model dirctory.
