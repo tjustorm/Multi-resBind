@@ -24,6 +24,6 @@ Two low datasets consist of RNA secondary structural profiles predicted by compu
 Train and evaluate the model with the commands:  
 `python3 main.py`
 ## Reproduce
-The jupyter notebook files to reproduce the Figures and tables of paper can be found in the ./jupyter notebook dirctory.
+The jupyter notebook files to reproduce the Figures and tables of paper can be found in the ./jupyter notebooks dirctory.
 # Model
 The pretrained models to reproduce the Figures and tables of paper can be found in the ./results dirctory.
